@@ -1,0 +1,70 @@
+Package: vcpkg-cmake
+Version: 2024-04-18
+Architecture: x64-windows
+Multi-Arch: same
+Abi: bf11d6a69814b3e2881cec251cfac2133d406fdb177be8c8456d1aa6ea48e646
+Status: install ok installed
+
+Package: zlib
+Version: 1.3.1
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: e0e100e81da17001605bb965dece78b7150acf5be8dd9a62618166f71871ce39
+Description: A compression library
+Status: install ok installed
+
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 03ac98ed9f8cb088c3cdede1614f113be08a131726013a006444fa38ea98e879
+Status: install ok installed
+
+Package: curl
+Version: 8.8.0
+Depends: vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 98fba5f3388ba8c24294ac77e9380e86bac58e897c3eb0b990609c6de3dca83f
+Description: A library for transferring data with URLs
+Default-Features: non-http, ssl
+Status: install ok installed
+
+Package: curl
+Feature: non-http
+Architecture: x64-windows
+Multi-Arch: same
+Description: Enables protocols beyond HTTP/HTTPS/HTTP2
+Status: install ok installed
+
+Package: curl
+Feature: schannel
+Architecture: x64-windows
+Multi-Arch: same
+Description: SSL support (Secure Channel)
+Status: install ok installed
+
+Package: curl
+Feature: ssl
+Architecture: x64-windows
+Multi-Arch: same
+Description: Default SSL backend
+Status: install ok installed
+
+Package: curl
+Feature: sspi
+Architecture: x64-windows
+Multi-Arch: same
+Description: SSPI support
+Status: install ok installed
+
+Package: sol2
+Version: 3.3.1
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3812d5dde6e86c50c87b3017edd423b7826bfdaf66b15ca9df8b00802d5e8502
+Description: Sol v2.0 - a C++ <-> Lua API wrapper with advanced features and top notch performance - is here, and it's great
+Status: install ok installed
+

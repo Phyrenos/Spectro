@@ -1,0 +1,71 @@
+-- Downloading https://github.com/curl/curl/archive/curl-8_8_0.tar.gz -> curl-curl-curl-8_8_0.tar.gz...
+-- Extracting source C:/Users/phyre/AppData/Local/vcpkg/downloads/curl-curl-curl-8_8_0.tar.gz
+-- Applying patch 0002_fix_uwp.patch
+-- Applying patch 0005_remove_imp_suffix.patch
+-- Applying patch 0012-fix-dependency-idn2.patch
+-- Applying patch 0020-fix-pc-file.patch
+-- Applying patch 0022-deduplicate-libs.patch
+-- Applying patch mbedtls-ws2_32.patch
+-- Applying patch export-components.patch
+-- Applying patch dependencies.patch
+-- Applying patch cmake-config.patch
+-- Using source at C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/vcpkg/blds/curl/src/curl-8_8_0-2aeb14236b.clean
+-- Using cached msys2-mingw-w64-x86_64-pkgconf-1~2.2.0-1-any.pkg.tar.zst.
+-- Using cached msys2-msys2-runtime-3.4.10-4-x86_64.pkg.tar.zst.
+-- Using msys root at C:/Users/phyre/AppData/Local/vcpkg/downloads/tools/msys2/d33df895d441a36d
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  C:/Users/phyre/AppData/Local/vcpkg/registries/git-trees/b4644cbe68d83d9778be65efb28cee3a3e0e4f46/portfile.cmake:66 (vcpkg_find_acquire_program)
+  scripts/ports.cmake:175 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:70 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:143 (z_vcpkg_find_acquire_program_find_internal)
+  C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:113 (vcpkg_find_acquire_program)
+  C:/Users/phyre/AppData/Local/vcpkg/registries/git-trees/b4644cbe68d83d9778be65efb28cee3a3e0e4f46/portfile.cmake:68 (vcpkg_cmake_configure)
+  scripts/ports.cmake:175 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) at scripts/cmake/vcpkg_find_acquire_program.cmake:30 (cmake_parse_arguments):
+  The INTERPRETER keyword was followed by an empty string or no value at all.
+  Policy CMP0174 is not set, so cmake_parse_arguments() will unset the
+  arg_INTERPRETER variable rather than setting it to an empty string.
+Call Stack (most recent call first):
+  scripts/cmake/vcpkg_find_acquire_program.cmake:149 (z_vcpkg_find_acquire_program_find_external)
+  C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:113 (vcpkg_find_acquire_program)
+  C:/Users/phyre/AppData/Local/vcpkg/registries/git-trees/b4644cbe68d83d9778be65efb28cee3a3e0e4f46/portfile.cmake:68 (vcpkg_cmake_configure)
+  scripts/ports.cmake:175 (include)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Found external ninja('1.11.0').
+-- Configuring x64-windows
+CMake Warning at C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/x64-windows/share/vcpkg-cmake/vcpkg_cmake_configure.cmake:327 (message):
+  The following variables are not used in CMakeLists.txt:
+
+      PKG_CONFIG_EXECUTABLE
+
+  Please recheck them and remove the unnecessary options from the
+  `vcpkg_cmake_configure` call.
+
+  If these options should still be passed for whatever reason, please use the
+  `MAYBE_UNUSED_VARIABLES` argument.
+Call Stack (most recent call first):
+  C:/Users/phyre/AppData/Local/vcpkg/registries/git-trees/b4644cbe68d83d9778be65efb28cee3a3e0e4f46/portfile.cmake:68 (vcpkg_cmake_configure)
+  scripts/ports.cmake:175 (include)
+
+
+-- Building x64-windows-dbg
+-- Building x64-windows-rel
+-- Fixing pkgconfig file: C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/vcpkg/pkgs/curl_x64-windows/lib/pkgconfig/libcurl.pc
+-- Fixing pkgconfig file: C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/vcpkg/pkgs/curl_x64-windows/debug/lib/pkgconfig/libcurl.pc
+-- Installing: C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/vcpkg/pkgs/curl_x64-windows/share/curl/vcpkg-cmake-wrapper.cmake
+-- Installing: C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/vcpkg/pkgs/curl_x64-windows/share/curl/usage
+-- Performing post-build validation

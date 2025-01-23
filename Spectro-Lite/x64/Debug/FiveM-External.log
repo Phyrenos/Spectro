@@ -1,0 +1,13 @@
+﻿  Features.cpp
+C:\Users\phyre\Downloads\FiveMBase\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features.cpp')
+  
+  Render.cpp
+C:\Users\phyre\Downloads\FiveMBase\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Render.cpp')
+  
+C:\Users\phyre\Downloads\FiveMBase\FiveM-External\Cheat\Render.cpp(185,63): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\phyre\Downloads\FiveMBase\FiveM-External\Cheat\Render.cpp(218,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\phyre\Downloads\FiveMBase\FiveM-External\Cheat\Render.cpp(218,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\phyre\Downloads\FiveMBase\FiveM-External\Cheat\Render.cpp(221,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CPed.cpp

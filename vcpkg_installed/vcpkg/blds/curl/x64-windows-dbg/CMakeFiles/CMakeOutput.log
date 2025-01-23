@@ -1,0 +1,9 @@
+Performing Test HAVE_WIN32_WINNT passed with the following output:
+Change Dir: 'C:/Users/phyre/Desktop/Pandora/PandoraFiveM/vcpkg_installed/vcpkg/blds/curl/x64-windows-dbg/CMakeFiles/CMakeTmp'
+
+Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe" -v cmTC_ee45b
+[1/2] C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1441~1.341\bin\Hostx64\x64\cl.exe  /nologo   /nologo /DWIN32 /D_WINDOWS /W3 /utf-8 /MP  -DHAVE_WIN32_WINNT /D_DEBUG /MDd /Z7 /Ob0 /Od /RTC1  -MDd /showIncludes /FoCMakeFiles\cmTC_ee45b.dir\CurlTests.c.obj /FdCMakeFiles\cmTC_ee45b.dir\ /FS -c C:\Users\phyre\Desktop\Pandora\PandoraFiveM\vcpkg_installed\vcpkg\blds\curl\src\curl-8_8_0-2aeb14236b.clean\CMake\CurlTests.c
+_WIN32_WINNT=0x0A00
+[2/2] C:\WINDOWS\system32\cmd.exe /C "cd . && "C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --msvc-ver=1941 --intdir=CMakeFiles\cmTC_ee45b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x64\mt.exe --manifests  -- C:\PROGRA~1\MICROS~1\2022\COMMUN~1\VC\Tools\MSVC\1441~1.341\bin\Hostx64\x64\link.exe /nologo CMakeFiles\cmTC_ee45b.dir\CurlTests.c.obj  /out:cmTC_ee45b.exe /implib:cmTC_ee45b.lib /pdb:cmTC_ee45b.pdb /version:0.0 /machine:x64  /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib && cd ."
+
+

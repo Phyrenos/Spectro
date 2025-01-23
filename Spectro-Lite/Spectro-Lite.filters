@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ImGui">
+      <UniqueIdentifier>{2c4173de-9305-4e30-ac21-1cce701536aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat">
+      <UniqueIdentifier>{ff06c6ee-f5ad-419b-be1d-c0f9f2d37417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Overlay">
+      <UniqueIdentifier>{e276cafd-e938-472d-9e3f-456f60a41163}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils">
+      <UniqueIdentifier>{ae5b17f3-42d6-4eff-949d-0305e56dadd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Memory">
+      <UniqueIdentifier>{0d5474f0-18a1-406c-893d-09ae69082a1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\SDK">
+      <UniqueIdentifier>{8758b129-3920-4829-b352-f62606e984b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\SimpleMath">
+      <UniqueIdentifier>{fac171d2-61e5-453f-a29f-5547888f79c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\SDK\Game">
+      <UniqueIdentifier>{b3c7d8a5-0409-45e8-a23c-281a7c17b910}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\SDK\CPed">
+      <UniqueIdentifier>{a198e712-ad27-4d85-b4cf-8f93e6483fec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\Globals">
+      <UniqueIdentifier>{980f8877-be47-4f45-a70e-69ab17f9dc82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protection">
+      <UniqueIdentifier>{5796d76f-fd1b-4ef8-b413-ddb396fda9dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protection\Lib">
+      <UniqueIdentifier>{6dc315ef-7449-4988-83e7-f6f7a5039658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protection\Lib\Strings">
+      <UniqueIdentifier>{8fd96000-2ce3-485d-90ed-b0800754e14b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protection\Lib\LazyImporter">
+      <UniqueIdentifier>{da151cf1-6a1d-4a4b-a221-12c5a6b3403e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Protection\Lib\SpoofCall">
+      <UniqueIdentifier>{c39b37e2-53fa-4f7e-b6c3-fbc557cead1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pandora">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Utils\Config">
+      <UniqueIdentifier>{7be77045-6a0c-462d-89a8-a7d36d0cdad8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nlohmann">
+      <UniqueIdentifier>{e9f1ef79-a4e1-4d79-9dcd-7c591d565a64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\BezierCurve">
+      <UniqueIdentifier>{d562faa4-ce3c-4fa6-81fa-b7a333403823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Curl">
+      <UniqueIdentifier>{6f64c91d-df72-4529-8e56-f828a6063922}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cheat\SDK\CVehicle">
+      <UniqueIdentifier>{9d9ceea5-060d-47f1-a128-2653a52efeac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utils\SigmaGUI">
+      <UniqueIdentifier>{b262c504-20c5-4b65-9655-8eb6e3b52d31}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Overlay\Overlay.h">
+      <Filter>Overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Memory\Memory.h">
+      <Filter>Utils\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheat\Cheat.h">
+      <Filter>Cheat</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\SimpleMath\SimpleMath.h">
+      <Filter>Utils\SimpleMath</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imconfig.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx11.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_rectpack.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_textedit.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_truetype.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheat\SDK\Game\GameSDK.h">
+      <Filter>Cheat\SDK\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheat\SDK\CPed\CPed.h">
+      <Filter>Cheat\SDK\CPed</Filter>
+    </ClInclude>
+    <ClInclude Include="Cheat\SDK\offset.h">
+      <Filter>Cheat\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils\Globals\Globals.h">
+      <Filter>Utils\Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Spoofcall\spoofer.h">
+      <Filter>Protection\Lib\SpoofCall</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Strings\xor.h">
+      <Filter>Protection\Lib\Strings</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\LazyImporter\Lazy.h">
+      <Filter>Protection\Lib\LazyImporter</Filter>
+    </ClInclude>
+    <ClInclude Include="json.hpp">
+      <Filter>nlohmann</Filter>
+    </ClInclude>
+    <ClInclude Include="json_fwd.hpp">
+      <Filter>nlohmann</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigManager.h">
+      <Filter>Utils\Config</Filter>
+    </ClInclude>
+    <ClInclude Include="BezierCurve.h">
+      <Filter>Utils\BezierCurve</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\curl.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\curlver.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\easy.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\header.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\mprintf.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\multi.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\options.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\stdcheaders.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\system.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\typecheck-gcc.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\urlapi.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="ext\Curl\websockets.h">
+      <Filter>Curl</Filter>
+    </ClInclude>
+    <ClInclude Include="CVehicle.h">
+      <Filter>Cheat\SDK\CVehicle</Filter>
+    </ClInclude>
+    <ClInclude Include="SigScanner.h">
+      <Filter>Utils\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="SigmaGUI.h">
+      <Filter>Utils\SigmaGUI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Overlay\Overlay.cpp">
+      <Filter>Overlay</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\Memory\Memory.cpp">
+      <Filter>Utils\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat\Features.cpp">
+      <Filter>Cheat</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat\Render.cpp">
+      <Filter>Cheat</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Pandora</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_demo.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx11.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_tables.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat\SDK\Game\GameSDK.cpp">
+      <Filter>Cheat\SDK\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat\SDK\CPed\CPed.cpp">
+      <Filter>Cheat\SDK\CPed</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils\Globals\Globals.cpp">
+      <Filter>Utils\Globals</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfigManager.cpp">
+      <Filter>Utils\Config</Filter>
+    </ClCompile>
+    <ClCompile Include="CVehicle.cpp">
+      <Filter>Cheat\SDK\CVehicle</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Utils\SimpleMath\SimpleMath.inl">
+      <Filter>Utils\SimpleMath</Filter>
+    </None>
+  </ItemGroup>
+</Project>

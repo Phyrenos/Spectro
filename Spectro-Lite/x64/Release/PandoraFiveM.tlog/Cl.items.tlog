@@ -1,0 +1,15 @@
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Cheat\Features.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\Features.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Cheat\Render.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\Render.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Cheat\SDK\CPed\CPed.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\CPed.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Cheat\SDK\Game\GameSDK.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\GameSDK.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui_demo.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui_demo.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui_draw.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui_draw.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui_impl_dx11.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui_impl_dx11.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui_impl_win32.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui_impl_win32.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui_tables.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui_tables.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\ImGui\imgui_widgets.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\imgui_widgets.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\main.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\main.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Overlay\Overlay.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\Overlay.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Utils\Globals\Globals.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\Globals.obj
+C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\Utils\Memory\Memory.cpp;C:\Users\phyre\Desktop\PandoraFiveM\Pandora-External\x64\Release\Memory.obj

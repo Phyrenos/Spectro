@@ -1,0 +1,141 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (FiveM-External.vcxproj, Pandora-Dev.vcxproj, PandoraFiveM.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Features.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features.cpp')
+  
+  AimAssist.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features/Combat/AimAssist.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Combat/AimAssist.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Combat/AimAssist.cpp')
+  
+  Aimbot.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features/Combat/Aimbot.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Combat/Aimbot.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Combat/Aimbot.cpp')
+  
+  Boxes.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features/Visual/Boxes.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Boxes.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Boxes.cpp')
+  
+  Names.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features/Visual/Names.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Names.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Names.cpp')
+  
+  Lines.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features/Visual/Lines.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Lines.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Lines.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Features\Visual\Lines.cpp(7,59): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Features\Visual\Lines.cpp(13,59): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+  Skeleton.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features/Visual/Skeleton.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Skeleton.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features/Visual/Skeleton.cpp')
+  
+  Gui.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Gui.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Gui.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Gui.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(102,18): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(126,24): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(131,17): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(159,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(172,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(291,27): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(449,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(450,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(451,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(452,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(453,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(454,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Gui.cpp(455,31): warning C4309: 'specialization': truncation of constant value
+  Render.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Render.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Render.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Render.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Render.cpp(92,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Render.cpp(92,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Render.cpp(97,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CPed.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/SDK/CPed/CPed.cpp')
+  
+  main.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Globals.cpp
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Utils/Globals/Globals.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(43,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Utils/Globals/Globals.cpp')
+  
+C:\Users\phyre\Desktop\Pandora\PandoraFiveM\Spectro-Lite\Cheat\Cheat.h(44,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Utils/Globals/Globals.cpp')
+  
+  Memory.cpp
+  Generating code
+  99 of 4848 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    48 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spectro-Lite.vcxproj -> C:\Users\phyre\Desktop\Pandora\PandoraFiveM\x64\Release\DevBuilds\Spectro.exe

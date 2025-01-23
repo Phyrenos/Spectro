@@ -1,0 +1,95 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (FiveM-External.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Features.cpp
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Features.cpp')
+  
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Cheat.h(33,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Features.cpp')
+  
+  Render.cpp
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/Render.cpp')
+  
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Cheat.h(33,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Cheat/Render.cpp')
+  
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(50,18): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(74,24): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(79,17): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(107,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(192,27): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(348,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(349,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(350,31): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(384,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(388,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(392,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(393,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(395,32): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(485,18): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(489,23): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(510,23): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(515,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(516,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(520,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(524,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(528,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(533,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(537,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(538,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(539,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(540,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(541,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(547,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(551,28): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(556,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(560,27): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(561,27): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(562,27): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(565,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(567,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(568,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(569,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(570,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(572,32): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(575,21): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(578,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(579,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(580,25): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(583,27): warning C4309: 'specialization': truncation of constant value
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(633,67): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(639,67): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(700,100): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(700,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Render.cpp(703,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CPed.cpp
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/SDK/CPed/CPed.cpp')
+  
+  GameSDK.cpp
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'Cheat/SDK/Game/GameSDK.cpp')
+  
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\SDK\Game\GameSDK.h(6,15): warning C4091: 'extern ': ignored on left of 'CBone' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+C:\Users\phyre\Desktop\PandoraFiveM\FiveM-External\Cheat\Cheat.h(33,29): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Overlay.cpp
+  Globals.cpp
+  Memory.cpp
+  Generating code
+  2108 of 2115 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    80 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FiveM-External.vcxproj -> C:\Users\phyre\Desktop\PandoraFiveM\x64\Release\Pandora.exe
